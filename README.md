@@ -2,7 +2,8 @@ SubtlePatterns
 ===============
 
 All the patterns from subtlepatterns - including the famous Photoshop .pat file
-http://matrixfox.github.io/SubtlePatterns/
+
+If you need Base64 versions of the patterns you can use this generator: http://www.greywyvern.com/code/php/binary2base64
 
 Subtle Patterns is created and curated by Atle Mo.
 The original author of the patterns are credited on subtlepatterns.com
